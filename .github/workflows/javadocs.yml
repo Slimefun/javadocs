@@ -9,13 +9,13 @@ jobs:
 
     steps:
     - name: Clone repository
-      run: 'git clone https://github.com/TheBusyBiscuit/Slimefun4 && cd Slimefun4'
+      run: git clone https://github.com/TheBusyBiscuit/Slimefun4
     - name: Set up JDK 1.9
       uses: giltene/setup-java@master
       with:
         java-version: 9.0.4
     - name: Generate Javadocs
-      run: mvn javadoc:javadoc
+      run: cd Slimefun4 && mvn javadoc:javadoc
     - name: Push to repository
       uses: github-actions-x/commit@v2.5
       with:
