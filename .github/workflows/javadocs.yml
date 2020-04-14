@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v1
     - name: Clone repository
       run: git clone https://github.com/TheBusyBiscuit/Slimefun4
     - name: Set up JDK 1.9
