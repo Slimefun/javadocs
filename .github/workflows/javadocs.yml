@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v1
+    - name: Clean up folder
+      run: rm -rf Slimefun4/
     - name: Clone repository
       run: git clone https://github.com/TheBusyBiscuit/Slimefun4
     - name: Set up Java 9 JDK
