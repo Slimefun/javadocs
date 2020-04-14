@@ -2,7 +2,7 @@ name: Javadocs Generator
 
 on:
   schedule:
-  - cron: '*/3 * * * *'
+  - cron: '* * * * *'
 
 jobs:
   javadocs:
