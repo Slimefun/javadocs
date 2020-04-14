@@ -1,8 +1,6 @@
 name: Javadocs Generator
 
-on:
-  schedule:
-  - cron: '* * * * *'
+on: push
 
 jobs:
   javadocs:
@@ -11,7 +9,7 @@ jobs:
 
     steps:
     - name: Clone repository
-      run: git clone https://github.com/TheBusyBiscuit/Slimefun4 && cd Slimefun4
+      run: 'git clone https://github.com/TheBusyBiscuit/Slimefun4 && cd Slimefun4'
     - name: Set up JDK 1.9
       uses: giltene/setup-java@master
       with:
@@ -23,8 +21,8 @@ jobs:
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
         push-branch: 'master'
-        commit-message: '[CI skip] Updated Javadocs'
+        commit-message: 'Updated Javadocs'
         force-add: 'true'
-        files: docs
+        files: Slimefun4/docs
         name: TheBusyBot
         email: ${{ secrets.BOT_EMAIL }}
