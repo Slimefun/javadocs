@@ -23,6 +23,7 @@ io.github.thebusybiscuit.slimefun4.core.services.github
 io.github.thebusybiscuit.slimefun4.core.services.localization
 io.github.thebusybiscuit.slimefun4.core.services.metrics
 io.github.thebusybiscuit.slimefun4.core.services.plugins
+io.github.thebusybiscuit.slimefun4.implementation
 io.github.thebusybiscuit.slimefun4.implementation.guide
 io.github.thebusybiscuit.slimefun4.implementation.items
 io.github.thebusybiscuit.slimefun4.implementation.items.altar
@@ -66,4 +67,3 @@ me.mrCookieSlime.Slimefun.Objects.handlers
 me.mrCookieSlime.Slimefun.Objects.SlimefunItem
 me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems
 me.mrCookieSlime.Slimefun.Objects.SlimefunItem.interfaces
-me.mrCookieSlime.Slimefun.Objects.SlimefunItem.multiblocks
