@@ -58,9 +58,9 @@ io.github.thebusybiscuit.slimefun4.utils
 io.github.thebusybiscuit.slimefun4.utils.holograms
 io.github.thebusybiscuit.slimefun4.utils.itemstack
 me.mrCookieSlime.Slimefun.api
-me.mrCookieSlime.Slimefun.api.energy
 me.mrCookieSlime.Slimefun.api.inventory
 me.mrCookieSlime.Slimefun.api.item_transport
+me.mrCookieSlime.Slimefun.bstats.bukkit
 me.mrCookieSlime.Slimefun.Lists
 me.mrCookieSlime.Slimefun.Objects
 me.mrCookieSlime.Slimefun.Objects.handlers
