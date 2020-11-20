@@ -43,6 +43,8 @@ io.github.thebusybiscuit.slimefun4.implementation.items.food
 io.github.thebusybiscuit.slimefun4.implementation.items.geo
 io.github.thebusybiscuit.slimefun4.implementation.items.gps
 io.github.thebusybiscuit.slimefun4.implementation.items.magical
+io.github.thebusybiscuit.slimefun4.implementation.items.magical.runes
+io.github.thebusybiscuit.slimefun4.implementation.items.magical.staves
 io.github.thebusybiscuit.slimefun4.implementation.items.magical.talismans
 io.github.thebusybiscuit.slimefun4.implementation.items.medical
 io.github.thebusybiscuit.slimefun4.implementation.items.misc
