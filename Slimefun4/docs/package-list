@@ -55,10 +55,12 @@ io.github.thebusybiscuit.slimefun4.implementation.items.tools
 io.github.thebusybiscuit.slimefun4.implementation.items.weapons
 io.github.thebusybiscuit.slimefun4.implementation.listeners
 io.github.thebusybiscuit.slimefun4.implementation.listeners.crafting
+io.github.thebusybiscuit.slimefun4.implementation.listeners.entity
 io.github.thebusybiscuit.slimefun4.implementation.resources
 io.github.thebusybiscuit.slimefun4.implementation.settings
 io.github.thebusybiscuit.slimefun4.implementation.setup
 io.github.thebusybiscuit.slimefun4.implementation.tasks
+io.github.thebusybiscuit.slimefun4.integrations
 io.github.thebusybiscuit.slimefun4.utils
 io.github.thebusybiscuit.slimefun4.utils.holograms
 io.github.thebusybiscuit.slimefun4.utils.itemstack
