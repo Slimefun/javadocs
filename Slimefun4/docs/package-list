@@ -25,6 +25,7 @@ io.github.thebusybiscuit.slimefun4.core.services.github
 io.github.thebusybiscuit.slimefun4.core.services.localization
 io.github.thebusybiscuit.slimefun4.core.services.plugins
 io.github.thebusybiscuit.slimefun4.core.services.profiler
+io.github.thebusybiscuit.slimefun4.core.services.profiler.inspectors
 io.github.thebusybiscuit.slimefun4.implementation
 io.github.thebusybiscuit.slimefun4.implementation.guide
 io.github.thebusybiscuit.slimefun4.implementation.items
