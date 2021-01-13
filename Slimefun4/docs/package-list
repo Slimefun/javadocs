@@ -23,7 +23,6 @@ io.github.thebusybiscuit.slimefun4.core.researching
 io.github.thebusybiscuit.slimefun4.core.services
 io.github.thebusybiscuit.slimefun4.core.services.github
 io.github.thebusybiscuit.slimefun4.core.services.localization
-io.github.thebusybiscuit.slimefun4.core.services.plugins
 io.github.thebusybiscuit.slimefun4.core.services.profiler
 io.github.thebusybiscuit.slimefun4.core.services.profiler.inspectors
 io.github.thebusybiscuit.slimefun4.implementation
@@ -40,6 +39,7 @@ io.github.thebusybiscuit.slimefun4.implementation.items.electric.gadgets
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.generators
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.reactors
+io.github.thebusybiscuit.slimefun4.implementation.items.elevator
 io.github.thebusybiscuit.slimefun4.implementation.items.food
 io.github.thebusybiscuit.slimefun4.implementation.items.geo
 io.github.thebusybiscuit.slimefun4.implementation.items.gps
