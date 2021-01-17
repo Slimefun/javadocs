@@ -22,6 +22,7 @@ io.github.thebusybiscuit.slimefun4.core.networks.energy
 io.github.thebusybiscuit.slimefun4.core.researching
 io.github.thebusybiscuit.slimefun4.core.services
 io.github.thebusybiscuit.slimefun4.core.services.github
+io.github.thebusybiscuit.slimefun4.core.services.holograms
 io.github.thebusybiscuit.slimefun4.core.services.localization
 io.github.thebusybiscuit.slimefun4.core.services.profiler
 io.github.thebusybiscuit.slimefun4.core.services.profiler.inspectors
