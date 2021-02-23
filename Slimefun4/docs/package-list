@@ -28,6 +28,7 @@ io.github.thebusybiscuit.slimefun4.core.services.profiler
 io.github.thebusybiscuit.slimefun4.core.services.profiler.inspectors
 io.github.thebusybiscuit.slimefun4.implementation
 io.github.thebusybiscuit.slimefun4.implementation.guide
+io.github.thebusybiscuit.slimefun4.implementation.handlers
 io.github.thebusybiscuit.slimefun4.implementation.items
 io.github.thebusybiscuit.slimefun4.implementation.items.altar
 io.github.thebusybiscuit.slimefun4.implementation.items.androids
