@@ -68,7 +68,6 @@ io.github.thebusybiscuit.slimefun4.implementation.setup
 io.github.thebusybiscuit.slimefun4.implementation.tasks
 io.github.thebusybiscuit.slimefun4.integrations
 io.github.thebusybiscuit.slimefun4.utils
-io.github.thebusybiscuit.slimefun4.utils.holograms
 io.github.thebusybiscuit.slimefun4.utils.itemstack
 io.github.thebusybiscuit.slimefun4.utils.tags
 me.mrCookieSlime.CSCoreLibPlugin.Configuration
