@@ -33,6 +33,7 @@ io.github.thebusybiscuit.slimefun4.implementation.items
 io.github.thebusybiscuit.slimefun4.implementation.items.altar
 io.github.thebusybiscuit.slimefun4.implementation.items.androids
 io.github.thebusybiscuit.slimefun4.implementation.items.armor
+io.github.thebusybiscuit.slimefun4.implementation.items.autocrafters
 io.github.thebusybiscuit.slimefun4.implementation.items.backpacks
 io.github.thebusybiscuit.slimefun4.implementation.items.blocks
 io.github.thebusybiscuit.slimefun4.implementation.items.cargo
@@ -41,7 +42,6 @@ io.github.thebusybiscuit.slimefun4.implementation.items.electric.gadgets
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.generators
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines.accelerators
-io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines.auto_crafters
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines.enchanting
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.machines.entities
 io.github.thebusybiscuit.slimefun4.implementation.items.electric.reactors
