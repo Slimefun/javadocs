@@ -17,9 +17,10 @@ jobs:
     - name: Clone repository
       run: git clone https://github.com/TheBusyBiscuit/Slimefun4
     - name: Set up Java 9 JDK
-      uses: actions/setup-java@master
+      uses: actions/setup-java@v2.0.0
       with:
         java-version: 9.0.4
+        distribution: 'adopt'
     - name: Generate Javadocs
       run: cd Slimefun4 && mvn javadoc:javadoc
     - name: Push to repository
