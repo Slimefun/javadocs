@@ -72,8 +72,11 @@ io.github.thebusybiscuit.slimefun4.integrations
 io.github.thebusybiscuit.slimefun4.utils
 io.github.thebusybiscuit.slimefun4.utils.itemstack
 io.github.thebusybiscuit.slimefun4.utils.tags
+me.mrCookieSlime
+me.mrCookieSlime.CSCoreLibPlugin
 me.mrCookieSlime.CSCoreLibPlugin.Configuration
 me.mrCookieSlime.CSCoreLibPlugin.general.Inventory
+me.mrCookieSlime.Slimefun
 me.mrCookieSlime.Slimefun.api
 me.mrCookieSlime.Slimefun.api.inventory
 me.mrCookieSlime.Slimefun.api.item_transport
