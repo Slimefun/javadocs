@@ -15,6 +15,7 @@ io.github.thebusybiscuit.slimefun4.core.commands.subcommands
 io.github.thebusybiscuit.slimefun4.core.guide
 io.github.thebusybiscuit.slimefun4.core.guide.options
 io.github.thebusybiscuit.slimefun4.core.handlers
+io.github.thebusybiscuit.slimefun4.core.machines
 io.github.thebusybiscuit.slimefun4.core.multiblocks
 io.github.thebusybiscuit.slimefun4.core.networks
 io.github.thebusybiscuit.slimefun4.core.networks.cargo
@@ -64,6 +65,7 @@ io.github.thebusybiscuit.slimefun4.implementation.items.weapons
 io.github.thebusybiscuit.slimefun4.implementation.listeners
 io.github.thebusybiscuit.slimefun4.implementation.listeners.crafting
 io.github.thebusybiscuit.slimefun4.implementation.listeners.entity
+io.github.thebusybiscuit.slimefun4.implementation.operations
 io.github.thebusybiscuit.slimefun4.implementation.resources
 io.github.thebusybiscuit.slimefun4.implementation.settings
 io.github.thebusybiscuit.slimefun4.implementation.setup
