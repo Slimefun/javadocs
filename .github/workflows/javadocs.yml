@@ -19,7 +19,7 @@ jobs:
     - name: Set up Java 9 JDK
       uses: actions/setup-java@v2.1.0
       with:
-        java-version: 9.0.4
+        java-version: '16'
         distribution: 'adopt'
     - name: Generate Javadocs
       run: cd Slimefun4 && mvn javadoc:javadoc
