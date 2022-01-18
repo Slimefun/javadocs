@@ -7,22 +7,30 @@ on:
 jobs:
   javadocs:
 
+    name: Generate javadocs
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+
     - name: Clean up folder
       run: rm -rf Slimefun4/
+
     - name: Clone repository
       run: git clone https://github.com/TheBusyBiscuit/Slimefun4
-    - name: Set up Java 9 JDK
-      uses: actions/setup-java@v2.1.0
+
+    - name: Set up Java 17 JDK
+      uses: actions/setup-java@v2.5.0
       with:
-        java-version: '16'
         distribution: 'adopt'
+        java-version: '17'
+        java-package: jdk
+        architecture: x64
+
     - name: Generate Javadocs
       run: cd Slimefun4 && mvn javadoc:javadoc
+
     - name: Push to repository
       uses: github-actions-x/commit@v2.8
       with:
