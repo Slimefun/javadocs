@@ -1,6 +1,10 @@
 name: Javadocs Generator
 
 on:
+  # Manual workflow trigger
+  workflow_dispatch: {}
+
+  # Run every ~12 hours
   schedule:
     - cron: '0 */12 * * *'
 
