@@ -36,7 +36,7 @@ jobs:
       run: cd Slimefun4 && mvn javadoc:javadoc
 
     - name: Push to repository
-      uses: github-actions-x/commit@v2.8
+      uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
         push-branch: 'master'
