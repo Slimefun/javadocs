@@ -77,6 +77,9 @@ io.github.thebusybiscuit.slimefun4.implementation.tasks
 io.github.thebusybiscuit.slimefun4.implementation.tasks.armor
 io.github.thebusybiscuit.slimefun4.implementation.tasks.player
 io.github.thebusybiscuit.slimefun4.integrations
+io.github.thebusybiscuit.slimefun4.storage
+io.github.thebusybiscuit.slimefun4.storage.backend.legacy
+io.github.thebusybiscuit.slimefun4.storage.data
 io.github.thebusybiscuit.slimefun4.utils
 io.github.thebusybiscuit.slimefun4.utils.biomes
 io.github.thebusybiscuit.slimefun4.utils.itemstack
