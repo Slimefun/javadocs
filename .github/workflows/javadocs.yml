@@ -42,6 +42,6 @@ jobs:
         push-branch: 'master'
         commit-message: 'Updated Javadocs'
         force-add: 'true'
-        files: Slimefun4/docs
+        files: Slimefun4/javadocs
         name: TheBusyBot
         email: ${{ secrets.BOT_EMAIL }}
