@@ -35,6 +35,9 @@ jobs:
     - name: Generate Javadocs
       run: cd Slimefun4 && mvn javadoc:javadoc
 
+    # Move to keep old dir and not need to rewrite everything
+    - run: rm -rf Slimefun4/docs && mv Slimefun4/javadocs Slimefun4/docs
+
     - name: Push to repository
       uses: github-actions-x/commit@v2.9
       with:
@@ -42,6 +45,6 @@ jobs:
         push-branch: 'master'
         commit-message: 'Updated Javadocs'
         force-add: 'true'
-        files: Slimefun4/javadocs
+        files: Slimefun4/docs
         name: TheBusyBot
         email: ${{ secrets.BOT_EMAIL }}
