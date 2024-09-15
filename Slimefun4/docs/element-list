@@ -82,6 +82,7 @@ io.github.thebusybiscuit.slimefun4.storage.backend.legacy
 io.github.thebusybiscuit.slimefun4.storage.data
 io.github.thebusybiscuit.slimefun4.utils
 io.github.thebusybiscuit.slimefun4.utils.biomes
+io.github.thebusybiscuit.slimefun4.utils.compatibility
 io.github.thebusybiscuit.slimefun4.utils.itemstack
 io.github.thebusybiscuit.slimefun4.utils.tags
 me.mrCookieSlime
